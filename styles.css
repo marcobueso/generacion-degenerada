@@ -1,0 +1,36 @@
+html {
+    background-color: #EFB4B1;/*#F495B3;*/
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica,Arial,sans-serif;
+}
+
+#logo {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 20%;
+    float: left;
+}
+
+#nav-bar {
+    margin-top: 10px;
+    font-family: 'Inconsolata', monospace;
+    width: 100%;
+}
+  
+.nav-element {
+    float: left;
+    padding: 8px;
+    text-decoration: none;
+    width: 18.5%; 
+    text-align: center; /* If you want the text to be centered */
+    color: #3f3e41;
+    font-size: 14px;
+  }
+
+  .nav-element:hover {
+    color: #000000;
+  }
